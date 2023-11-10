@@ -1,7 +1,20 @@
 # GPT-MERNify
 
-This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
+An AI Chatbot application built using MERN Stack and OPENAI.
 
-It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted.
+## Features
 
-It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
+###User Authentication:
+   - A secure login and signup page for users.
+   - Security measures, such as password encryption and account verification, have been implemented.
+
+###Interactive Page:
+   - Upon successful login, users are directed to an interactive page inspired by ChatGPT-3.5.
+   - Previous chat conversations are automatically loaded when the user signs in.
+   - Users are allowed to clear or delete conversations with the Chatbot for better control over their chat history.
+
+## Run Code
+
+```npm run dev```
+
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
