@@ -1,6 +1,6 @@
 # GPT-MERNify
 
-An AI Chatbot application built using MERN Stack and OPENAI.
+An AI Chatbot application built using MERN Stack and OpenAI.
 
 ## Features
 
